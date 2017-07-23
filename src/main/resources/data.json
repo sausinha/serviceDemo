@@ -1,0 +1,20 @@
+{
+	"customerVOList": [
+		{
+			"accountKey": "12345",
+			"masterAccountVO": {
+				"cardAccountNumber": "123456789",
+				"currentBalance": "5000",
+				"currentMinimumPayment": "",
+				"currentMinimumPaymentCC": "",
+				"lastPaymentAmount": "",
+				"lastPaymentDate": "",
+				"creditLimit": "",
+				"cashAdvanceCredit": "",
+				"availableCredit": "",
+				"availableCashAdvCredit": "",
+				"cycleCode": ""
+			}
+		}
+	]
+}
